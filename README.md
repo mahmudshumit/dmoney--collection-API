@@ -1,5 +1,5 @@
 # Project Title:
-dmoney User Collection  Automation and Reporting using Newman
+dmoney User Collection  Automation and Reporting using Newman.
 
 ## Project Summary:
 This API project thoroughly tests the dmoney payment system by simulating interactions between Admin, Agent, and Customer roles. It covers key functionalities like user creation, deposits, withdrawals, transfers, and balance checks, excluding merchant involvement for policy compliance. These comprehensive tests ensure the system operates smoothly and securely for authorized users, building trust and reliability.
@@ -18,7 +18,6 @@ This API project thoroughly tests the dmoney payment system by simulating intera
 
 ## Output:
 ![Newman-Summary-Report](https://github.com/mahmudshumit/dmoney--collection-API/assets/76776682/9aa29643-486f-48f7-923e-0bedf9573522)
-
 
 
 
